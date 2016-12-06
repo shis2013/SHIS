@@ -8,8 +8,15 @@
   <description/>
   <repositories>
         <repository>
-            <id>shis-maven-repo</id>
+            <id>shis2013-maven-repo</id>
+            <name>shis</name>
             <url>https://raw.github.com/shis2013/maven-repo</url>
+            <releases>  
+         		<enabled>true</enabled>
+       		</releases>  
+       		<snapshots>  
+         		<enabled>false</enabled>  
+       		</snapshots> 
         </repository>
   </repositories>
   <dependencies>
