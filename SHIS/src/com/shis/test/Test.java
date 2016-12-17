@@ -1,17 +1,25 @@
 package com.shis.test;
 
 public class Test {
-
-	/** 
-	 * 创建人：史帅 
-	 * 创建时间：2016-12-6 上午02:43:50   
-	 * 方法描述：
-	 * @return void
-	 * @throws 
+	/**
+	 * 
+	 * @Title main 
+	 * @author 史帅
+	 * @date 2016-12-7
+	 * @return void 
+	 * @param args
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		String a = null;
+		if(a.equals("0"))
+		
 		System.out.println("hello word123");
+		try {
+			
+		} catch (Exception e) {
+			// TODO: handle exception
+		}
 	}
 
 }
