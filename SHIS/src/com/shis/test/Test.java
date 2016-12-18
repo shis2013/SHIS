@@ -16,7 +16,7 @@ public class Test {
 		
 		System.out.println("hello word123");
 		try {
-			
+			System.out.println("hello word123");
 		} catch (Exception e) {
 			// TODO: handle exception
 		}
